@@ -10,6 +10,6 @@ public class HotelServiceApplication {
 		SpringApplication.run(HotelServiceApplication.class, args);
 		System.out.println("Started");
 	
-	} 
+	}   
 
 }
